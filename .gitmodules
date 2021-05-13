@@ -8,3 +8,4 @@
 	url = https://github.com/luisdva/unheadr
 	shallow = true
 	registered = true
+	oncran = true
