@@ -1,5 +1,9 @@
 [
   {
+    "package": "annotater",
+    "oncran": true
+  },
+  {
     "package": "unheadr",
     "oncran": true
   }
