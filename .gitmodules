@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "annotater"]
 	path = annotater
 	url = https://github.com/luisdva/annotater
-	shallow = true
-	registered = true
 [submodule "unheadr"]
 	path = unheadr
 	url = https://github.com/luisdva/unheadr
-	shallow = true
-	registered = true
