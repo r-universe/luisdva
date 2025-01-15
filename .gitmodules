@@ -1,10 +1,16 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/luisdva/luisdva.r-universe.dev
 	branch = HEAD
 [submodule "annotater"]
 	path = annotater
 	url = https://github.com/luisdva/annotater
+[submodule "forgts"]
+	path = forgts
+	url = https://github.com/luisdva/forgts
+[submodule "hexsession"]
+	path = hexsession
+	url = https://github.com/luisdva/hexsession
 [submodule "unheadr"]
 	path = unheadr
 	url = https://github.com/luisdva/unheadr
